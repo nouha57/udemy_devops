@@ -7,4 +7,4 @@ metadata:
 spec:
   containers:
     - name: myfirstpod
-      image: psrv3/devopswithpy
+      image: nouhanohnoh/devops
